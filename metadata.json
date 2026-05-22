@@ -1,0 +1,6 @@
+{
+  "name": "Tasbeeh Counter",
+  "description": "An offline-first Tasbeeh counter app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
